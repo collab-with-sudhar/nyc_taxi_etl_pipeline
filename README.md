@@ -33,4 +33,4 @@ airflow db init
 airflow webserver -p 8080
 airflow scheduler
 Open http://localhost:8080
- and trigger the nyc_taxi_etl DAG.```
+ and trigger the nyc_taxi_etl DAG.
